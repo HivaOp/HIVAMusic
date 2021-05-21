@@ -22,7 +22,7 @@ async def start(_, message: Message):
                         "Creater⚡️", url="https://t.me/HIVAOP"
                     ),
                     InlineKeyboardButton(
-                        "Ravan102030⚡️", url="https://t.me/HIVAOPHELP"
+                        "HIVA OP⚡️", url="https://t.me/HIVAOPHELP"
                     )
                 ],
                 [
